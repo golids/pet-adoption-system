@@ -10,20 +10,21 @@ This system allows users to:
 - Track pet status (available, pending, adopted)
 
 **KEY FEATURES**
-✅ RESTful API architecture
-✅ API versioning (e.g., /api/v1/)
-✅ CRUD operations for pets, users, and adoption requests
-✅ Structured routing and modular controller design
-✅ Proper HTTP status codes and error handling
-✅ JSON-based request and response format
-✅ Database integration
+- RESTful API architecture
+- API versioning (e.g., /api/v1/)
+- CRUD operations for pets, users, and adoption requests
+- Structured routing and modular controller design
+- Proper HTTP status codes and error handling
+- JSON-based request and response format
+- Database integration
 
 **PURPOSE**
 This project showcases best practices in:
-Backend development
-API version control and scalability
-Clean code structure
-Database design and integration
+- Backend development
+- API version control and scalability
+- Clean code structure
+- Database design and integration
 
- It is designed to be scalable, maintainable, and ready for future API versions (e.g., /api/v2/) without breaking existing clients.
+** It is designed to be scalable, maintainable, and ready for future API versions (e.g., /api/v2/) without breaking existing clients.**
+
 
