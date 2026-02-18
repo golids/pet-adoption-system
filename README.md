@@ -25,6 +25,7 @@ This project showcases best practices in:
 - Clean code structure
 - Database design and integration
 
-** It is designed to be scalable, maintainable, and ready for future API versions (e.g., /api/v2/) without breaking existing clients.**
+**It is designed to be scalable, maintainable, and ready for future API versions (e.g., /api/v2/) without breaking existing clients.**
+
 
 
