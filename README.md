@@ -27,5 +27,12 @@ This project showcases best practices in:
 
 **It is designed to be scalable, maintainable, and ready for future API versions (e.g., /api/v2/) without breaking existing clients.**
 
+**Working API Endpoint (GET request)**
+Navigate to: http://127.0.0.1:8000/api/v1/pets/
+
+**Swagger**
+Navigate to: http://127.0.0.1:8000/api/docs/
+
+
 
 
